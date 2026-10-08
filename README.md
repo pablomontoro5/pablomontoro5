@@ -36,7 +36,7 @@
 
 - 🔲 Matriz LED 8x8  
   Matriz LED programable con Arduino, teclado matricial 4x4 y comunicación Wi‑Fi mediante ESP8266.  
-  Proyecto colaborativo con @davidlw04
+  Proyecto colaborativo con [David](https://github.com/davidlw04)
 
 ## 🛠️ Tecnologías
 
